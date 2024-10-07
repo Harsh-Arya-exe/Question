@@ -1,2 +1,1 @@
 This is a detail
-This second line is change in this file
