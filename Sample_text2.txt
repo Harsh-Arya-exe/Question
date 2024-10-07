@@ -1,2 +1,3 @@
 Hello! This is the 2nd sample text.
-This sample_text2 also has changes
+This sample_text2 also has changes.
+There is also another change.
